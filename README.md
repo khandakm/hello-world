@@ -1,3 +1,3 @@
 # hello-world
 
-This is test of how hit hub works
+This is test of hello world in git hub
